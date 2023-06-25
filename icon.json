@@ -1,0 +1,8 @@
+{
+"name":"zero's Emby Icon", 
+"description":"by k*#", 
+"icons":
+    [
+        {"name":"zero.png", "url":"https://raw.githubusercontent.com/acgzero/emby/main/zero.png"},
+
+    ]
