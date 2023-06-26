@@ -4,6 +4,7 @@
 "icons":
     [
         {"name":"zero.png", "url":"https://raw.githubusercontent.com/acgzero/emby/main/zero.png"},
+        {"name":"k.png", "url":"https://raw.githubusercontent.com/acgzero/emby/main/k.png"}
 
     ]
 }
